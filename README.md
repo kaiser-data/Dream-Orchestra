@@ -21,7 +21,7 @@ So the app decides per task which checkpoint may run.
 ![React](https://img.shields.io/badge/React-React%20Flow%20editor-61dafb?logo=react&logoColor=black)
 ![Tests](https://img.shields.io/badge/tests-93%20backend%20·%2086%20frontend-2ea44f)
 
-REMix × Dream Labs hackathon, Berlin, 21–22 Nov 2026 · [Results page](https://cell-finetune-results.martinkaiser-bln.workers.dev) ·
+🥉 **3rd place, Dream Labs track** · REMix × Dream Labs hackathon ([Robotics × AI HackLab #2](https://luma.com/h0mcaqio)), CIC Berlin, 21–22 Nov 2026 · [Results page](https://cell-finetune-results.martinkaiser-bln.workers.dev) ·
 [Demo video (2:42)](https://cell-finetune-results.martinkaiser-bln.workers.dev/dream-orchestra-demo.mp4)
 
 </div>
